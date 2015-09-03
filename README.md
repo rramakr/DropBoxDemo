@@ -1,5 +1,4 @@
-# DropBoxDemo
-## Dropbox [(raw)](https://gist.github.com/CrabDude/040af9c1b93e350608ff/raw)
+## DropBoxDemo [(raw)](https://gist.github.com/CrabDude/040af9c1b93e350608ff/raw)
 
 This is a basic Dropbox clone to sync files across multiple remote folders.
 
